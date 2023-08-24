@@ -1,7 +1,5 @@
 # Netflix Clone
 
-![Netflix Clone Screenshot](screenshot.png)
-
 A responsive Netflix clone built using HTML, CSS, and the Google Fonts API. This project aims to replicate the look and feel of the Netflix website, showcasing responsive design principles and font integration using the Google Fonts API.
 
 ## Features
